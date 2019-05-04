@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SequenceDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" dslVersion="1.0.0.0" Id="069873b4-d3be-4b71-918e-9aa1ff1b370c" name="Form1Surf_btnEditImg_Click" mode="DotNet" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner">
+  <packagedElements>
+    <packageHasNamedElement>
+      <interaction Id="b1975cce-6440-4596-b3bf-74f698d71b04" name="Form1Surf_btnEditImg_Click" collapseFragmentsFlag="false" isActiveClass="false" isAbstract="false" isLeaf="false" isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification Id="580cd66d-89c0-4217-ba64-870cf141f810" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="59f073f7-c72b-42da-9593-f2c127c9e63d" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="d6891c12-31fb-4a66-b420-c940736cee46" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="5fd79f33-0983-4b02-a549-31aebc687dd6" LastKnownName="MessageOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="7a4974af-627a-4c33-98ba-c21caa95d7fc" LastKnownName="OperandOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="580df148-84c0-4f88-8d7d-a6e2d7ec167b" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="63b68c17-a7f9-4174-9204-0c4df351d234" LastKnownName="MessageOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="2695d556-c87b-4853-a7e1-c697423484c7" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="ff26a8c1-7d29-4b43-907f-fd924d5c1978" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="cb305552-2663-466b-8dd7-e9caefe5a54c" LastKnownName="OperandOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="d6891c12-31fb-4a66-b420-c940736cee46" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="1e92ee16-1fe0-4f23-9b30-bcbb7b345ccb" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <lostFoundTarget Id="f98eabbe-d9af-4f1c-8a6c-bb857778f933" name="LostFoundTarget" />
+          <messageOccurrenceSpecification Id="5fd79f33-0983-4b02-a549-31aebc687dd6" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <combinedFragment Id="24227c76-640e-4cad-991e-7f8bdda5ece8" name="CombinedFragment1" interactionOperator="Alt" customInteractionOperator="If">
+            <coveredLifelines>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </coveredLifelines>
+            <operands>
+              <interactionOperand Id="bc8e2944-5f34-4e56-a8b5-c2ef5b76547b" name="InteractionOperand1">
+                <coveredLifelines>
+                  <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+                  <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+                </coveredLifelines>
+                <guard>
+                  <interactionConstraint Id="a03d1fad-3a88-4e73-bb70-438b7431a34c" guardText="if (isImgToFind == true)" />
+                </guard>
+                <operandOccurrenceSpecifications>
+                  <operandOccurrenceSpecificationMoniker Id="7a4974af-627a-4c33-98ba-c21caa95d7fc" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="2695d556-c87b-4853-a7e1-c697423484c7" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="e3fe9411-2c17-4cac-a150-a328c30f03a1" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="da70ca11-7f01-40a5-803d-418fc27401af" LastKnownName="OperandOccurrenceSpecification" />
+                </operandOccurrenceSpecifications>
+              </interactionOperand>
+              <interactionOperand Id="4198e61f-2b60-4bbe-a609-252a4fdbe491" name="InteractionOperand2">
+                <coveredLifelines>
+                  <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+                  <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+                </coveredLifelines>
+                <guard>
+                  <interactionConstraint Id="e057321a-193e-415b-b632-5012a89323da" guardText="else" />
+                </guard>
+                <operandOccurrenceSpecifications>
+                  <operandOccurrenceSpecificationMoniker Id="ff26a8c1-7d29-4b43-907f-fd924d5c1978" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="cb305552-2663-466b-8dd7-e9caefe5a54c" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="3637973c-045e-40a9-b1cb-d6898cc3924f" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="0c0e12ab-f0f4-4d11-88b4-0cda4eabdba3" LastKnownName="OperandOccurrenceSpecification" />
+                </operandOccurrenceSpecifications>
+              </interactionOperand>
+            </operands>
+          </combinedFragment>
+          <operandOccurrenceSpecification Id="e3fe9411-2c17-4cac-a150-a328c30f03a1" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="7a4974af-627a-4c33-98ba-c21caa95d7fc" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <behaviorExecutionSpecification Id="18875f75-ec3b-4410-a08a-2ec1b6b8cbd9" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="ec16c912-72cf-4c60-a4bc-92ea9c33b519" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="28c8cbbf-f7bd-4b28-8869-d6f7b041fb7d" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="5e48aab1-865f-4070-968b-659ce6a599d2" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="9d91a036-2171-4d91-b3a8-0a6da81d08c0" LastKnownName="MessageOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="9c94f0d1-d224-4efd-8c1d-1f25470f27d0" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="122a8703-d7fa-4cc4-959a-90c2dd574083" LastKnownName="ExecutionOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="25385c6d-6eb6-417f-ba47-6edb15c83a7c" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="28c8cbbf-f7bd-4b28-8869-d6f7b041fb7d" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="8c54f81c-9ebc-4cb7-a4bf-5d1207be5ba1" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="580df148-84c0-4f88-8d7d-a6e2d7ec167b" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="5e48aab1-865f-4070-968b-659ce6a599d2" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="9d91a036-2171-4d91-b3a8-0a6da81d08c0" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <behaviorExecutionSpecification Id="df604a1e-6d9a-4dc9-a111-6421b04d08b3" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="122a8703-d7fa-4cc4-959a-90c2dd574083" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="9c94f0d1-d224-4efd-8c1d-1f25470f27d0" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="2c853f63-1c62-443f-a14b-b6481751e7f2" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="9c94f0d1-d224-4efd-8c1d-1f25470f27d0" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="0131cf73-1e83-4dbf-af64-c321f5cd002a" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="2c853f63-1c62-443f-a14b-b6481751e7f2" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="122a8703-d7fa-4cc4-959a-90c2dd574083" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="f6e78716-56a5-45e8-aa69-17d30f06a197" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="63b68c17-a7f9-4174-9204-0c4df351d234" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="25385c6d-6eb6-417f-ba47-6edb15c83a7c" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="ec16c912-72cf-4c60-a4bc-92ea9c33b519" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="8279451f-97f1-47f3-aaac-535e42ff496c" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="da70ca11-7f01-40a5-803d-418fc27401af" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="2695d556-c87b-4853-a7e1-c697423484c7" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="3637973c-045e-40a9-b1cb-d6898cc3924f" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="ff26a8c1-7d29-4b43-907f-fd924d5c1978" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="cb305552-2663-466b-8dd7-e9caefe5a54c" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="0c0e12ab-f0f4-4d11-88b4-0cda4eabdba3" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" LastKnownName="Form2EditImg : Form2EditImg" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="59f073f7-c72b-42da-9593-f2c127c9e63d" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="30d8af62-fdab-469f-ab44-0628b8d29eef" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="79104f79-370f-4e01-93f9-889347a90e9f" LastKnownName="this : Form1Surf" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline Id="79104f79-370f-4e01-93f9-889347a90e9f" name="this : Form1Surf" isActor="false" lifelineDisplayName="this : Form1Surf" referencedInstance="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf ObjectInstance=&quot;Object instance 3&quot;)" referencedType="InteligentnySystemSledzacy‎.Form1Surf">
+            <referencesInternal>
+              <reference Id="177e9a05-db3c-4c2d-9785-b8b276f9185c" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=InteligentnySystemSledzacy)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf)&quot;)" tag="DGQL" />
+              <reference Id="78ea6e30-6368-44b4-a6a6-5d88aab41b98" handle="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf)" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker Id="d6891c12-31fb-4a66-b420-c940736cee46" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="59f073f7-c72b-42da-9593-f2c127c9e63d" LastKnownName="ExecutionOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline Id="d9ac1919-be4a-4d4e-8e55-e59fc34127ff" name="Form2EditImg : Form2EditImg" isActor="false" lifelineDisplayName="Form2EditImg : Form2EditImg" referencedInstance="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg ObjectInstance=&quot;Object instance 7&quot;)" referencedType="InteligentnySystemSledzacy‎.Form2EditImg">
+            <referencesInternal>
+              <reference Id="0027424e-eec2-4cab-812f-316d90a872c4" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=InteligentnySystemSledzacy)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg)&quot;)" tag="DGQL" />
+              <reference Id="2f8a5fc3-bf80-4e7c-bb21-1d3f2d9518a4" handle="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg)" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <operandOccurrenceSpecificationMoniker Id="e3fe9411-2c17-4cac-a150-a328c30f03a1" LastKnownName="OperandOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="28c8cbbf-f7bd-4b28-8869-d6f7b041fb7d" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="ec16c912-72cf-4c60-a4bc-92ea9c33b519" LastKnownName="ExecutionOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="da70ca11-7f01-40a5-803d-418fc27401af" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="3637973c-045e-40a9-b1cb-d6898cc3924f" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="0c0e12ab-f0f4-4d11-88b4-0cda4eabdba3" LastKnownName="OperandOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+        </lifelines>
+        <messages>
+          <message Id="d14cb6c2-b0c3-438d-a79f-c607ae56c8c6" name="btnEditImg_Click" messageKind="Found" messageSort="AsynchCall" createSelfMessage="false">
+            <referencesInternal>
+              <reference Id="1fcf153b-71f2-4e6d-9c5d-520980e7cc0d" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=InteligentnySystemSledzacy)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf Member=(Name=btnEditImg_Click OverloadingParameters=[(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll&amp;quot; Namespace=System Type=Object),(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll&amp;quot; Namespace=System Type=EventArgs)]))&quot;)" tag="DGQL" />
+              <reference Id="44f0d5d9-339e-403e-a406-f7db1f65da23" handle="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf Member=(Name=btnEditImg_Click OverloadingParameters=[(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll&quot; Namespace=System Type=Object),(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll&quot; Namespace=System Type=EventArgs)]))" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <lostFoundTargetMoniker Id="f98eabbe-d9af-4f1c-8a6c-bb857778f933" LastKnownName="LostFoundTarget" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="5fd79f33-0983-4b02-a549-31aebc687dd6" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="a68da960-8cb6-4a24-a063-c5ff82814453" name="Create Form2EditImg" messageKind="Complete" messageSort="CreateMessage" createSelfMessage="false" signatureText="new Form2EditImg(this, imgToFindColor)">
+            <referencesInternal>
+              <reference Id="6564af2b-e880-445a-b762-784f701db034" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=InteligentnySystemSledzacy)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg Member=(Name=.ctor OverloadingParameters=[(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf),(Assembly=&amp;quot;file:///C:/Emgu/emgucv-windows-universal-gpu 2.4.9.1847/bin/Emgu.CV.dll&amp;quot; Namespace=Emgu.CV Type=(Name=Image GenericParameterCount=2 GenericArguments=[(Assembly=&amp;quot;file:///C:/Emgu/emgucv-windows-universal-gpu 2.4.9.1847/bin/Emgu.CV.dll&amp;quot; Namespace=Emgu.CV.Structure Type=Bgr),(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll&amp;quot; Namespace=System Type=Byte)]))]))&quot;)" tag="DGQL" />
+              <reference Id="1c06b610-797a-41c0-a30a-b5dfe51f0922" handle="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg Member=(Name=.ctor OverloadingParameters=[(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form1Surf),(Assembly=&quot;file:///C:/Emgu/emgucv-windows-universal-gpu 2.4.9.1847/bin/Emgu.CV.dll&quot; Namespace=Emgu.CV Type=(Name=Image GenericParameterCount=2 GenericArguments=[(Assembly=&quot;file:///C:/Emgu/emgucv-windows-universal-gpu 2.4.9.1847/bin/Emgu.CV.dll&quot; Namespace=Emgu.CV.Structure Type=Bgr),(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll&quot; Namespace=System Type=Byte)]))]))" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="580df148-84c0-4f88-8d7d-a6e2d7ec167b" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="5e48aab1-865f-4070-968b-659ce6a599d2" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="423ac20f-5568-4a7c-82cf-29a8bd4671db" name="InitializeComponent" messageKind="Complete" messageSort="SynchCall" createSelfMessage="true" signatureText="InitializeComponent()">
+            <referencesInternal>
+              <reference Id="a8b114a5-5fca-4f6d-b3bc-256198931324" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=InteligentnySystemSledzacy)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&amp;quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg Member=InitializeComponent)&quot;)" tag="DGQL" />
+              <reference Id="69fddeba-e861-49d0-857d-ed6b0468ee3d" handle="(Assembly=&quot;$(dc15e6d4-82cc-44d0-a9ed-331b753051e8.OutputPathUri)&quot; Namespace=InteligentnySystemSledzacy Type=Form2EditImg Member=InitializeComponent)" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="9d91a036-2171-4d91-b3a8-0a6da81d08c0" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="2c853f63-1c62-443f-a14b-b6481751e7f2" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="7455c510-c6fc-4725-9708-6c09171b2e24" name="&lt;&lt;return&gt;&gt;" messageKind="Complete" messageSort="Reply" createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="25385c6d-6eb6-417f-ba47-6edb15c83a7c" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="63b68c17-a7f9-4174-9204-0c4df351d234" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+        </messages>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="1e92ee16-1fe0-4f23-9b30-bcbb7b345ccb" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="30d8af62-fdab-469f-ab44-0628b8d29eef" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="8c54f81c-9ebc-4cb7-a4bf-5d1207be5ba1" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="8279451f-97f1-47f3-aaac-535e42ff496c" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="0131cf73-1e83-4dbf-af64-c321f5cd002a" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="f6e78716-56a5-45e8-aa69-17d30f06a197" name="ExecutionEvent" />
+    </packageHasNamedElement>
+  </packagedElements>
+</SequenceDesignerModel>

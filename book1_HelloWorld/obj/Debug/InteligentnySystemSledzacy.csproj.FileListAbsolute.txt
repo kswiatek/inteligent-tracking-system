@@ -1,0 +1,104 @@
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_calib3d249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_contrib249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_core249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_features2d249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_ffmpeg249_64.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_flann249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_gpu249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_highgui249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_imgproc249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_legacy249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_ml249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_nonfree249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_objdetect249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_photo249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_stitching249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_video249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\opencv_videostab249.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\book1_HelloWorld.exe
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\book1_HelloWorld.pdb
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.ML.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.UI.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.Util.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\ZedGraph.dll
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.ML.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.UI.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Emgu.Util.xml
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csprojResolveAssemblyReference.cache
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csproj.GenerateResource.Cache
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\book1_HelloWorld.exe
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\book1_HelloWorld.pdb
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Form1Surf.cs
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\bin\Debug\Form1Surf.Designer.cs
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Form2EditImg.resources
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Form1Surf.resources
+C:\Users\kacper_sw\Desktop\obraz z cam\YT_detectAndTracking\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Properties.Resources.resources
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - aplikacja obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.exe
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - aplikacja obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.pdb
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.exe
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.pdb
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_calib3d249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_contrib249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_core249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_features2d249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_ffmpeg249_64.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_flann249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_gpu249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_highgui249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_imgproc249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_legacy249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_ml249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_nonfree249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_objdetect249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_photo249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_stitching249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_video249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\opencv_videostab249.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Form1Surf.cs
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Form1Surf.Designer.cs
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\book1_HelloWorld.exe.manifest
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\book1_HelloWorld.application
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\book1_HelloWorld.exe
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\book1_HelloWorld.pdb
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.ML.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.UI.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.Util.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\ZedGraph.dll
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.ML.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.UI.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\bin\Debug\Emgu.Util.xml
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csprojResolveAssemblyReference.cache
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Form2EditImg.resources
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Form1Surf.resources
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Properties.Resources.resources
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csproj.GenerateResource.Cache
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.exe.manifest
+C:\Users\kacper_sw\Desktop\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.application
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csprojAssemblyReference.cache
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Form2EditImg.resources
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Form1Surf.resources
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.Properties.Resources.resources
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csproj.GenerateResource.cache
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\InteligentnySystemSledzacy.csproj.CoreCompileInputs.cache
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.exe
+D:\BACKUP HDD LAPTOP\STORAGE\PRACA INŻYNIERSKA\do nagrania\Inteligentny system śledzący - projekt aplikacji obsługi\book1_HelloWorld\obj\Debug\book1_HelloWorld.pdb
